@@ -4,7 +4,7 @@
 <div align="center">
    <strong> <p align="center">Social Media</p></strong>
 <a href="https://www.instagram.com/pdrodc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
-<a href="pedrodeolinda05@gmail.com"><img src="https://img.shields.io/badge/gmail-008000?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram" target="_blank"></a>
+<a href="pedrodeolinda05@gmail.com"><img src="https://img.shields.io/badge/gmail-0041C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram" target="_blank"></a>
 </div>
 
 <h2>Technologies :</h2>
